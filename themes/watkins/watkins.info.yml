@@ -1,0 +1,37 @@
+core: 8.x
+type: theme
+base theme: bootstrap
+
+name: 'Watkins Site Development'
+description: 'Author Rick Cisneros'
+package: 'Bootstrap'
+
+regions:
+  logo:       'Logo Area'
+  masterMenu: 'Master Menu Block'
+  heroText:   'Hero area text'
+  firstCallOut: 'Homepage Callout 1'
+  callout2:     'Homepage Callout 2'
+  callout3:     'Homepage Callout 3'
+  homeContacttop: 'Home Contact Top'
+  homeContactLeft:  'Home Contact Left'
+  homeContactRight: 'Home Contact Right'
+  navigation: 'Navigation'
+  pageCalloutTop: 'Page Callout Top'
+  navigation_collapsible: 'Navigation (Collapsible)'
+  header: 'Top Bar'
+  highlighted: 'Highlighted'
+  help: 'Help'
+  content: 'Content'
+  sidebar_first: 'Primary'
+  sidebar_second: 'Secondary'
+  pageCalloutBottom: 'Page Callout bottom'
+  footer: 'Footer'
+  footerLeft: 'Footer Left'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+
+libraries-extend:
+  bootstrap/framework:
+    - watkins/framework
+

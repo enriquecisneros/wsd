@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>http://www.watkinssitedevelopment.com//</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://www.watkinssitedevelopment.com//Home</loc><lastmod>2018-11-14T20:07Z</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+<url><loc>http://www.watkinssitedevelopment.com//About</loc><lastmod>2018-12-04T19:20Z</lastmod><changefreq>hourly</changefreq></url>
+<url><loc>http://www.watkinssitedevelopment.com//Gallery</loc><lastmod>2018-11-14T20:09Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://www.watkinssitedevelopment.com//Services</loc><lastmod>2018-12-04T19:19Z</lastmod><changefreq>hourly</changefreq></url>
+<url><loc>http://www.watkinssitedevelopment.com//Contact-Us</loc><lastmod>2018-11-14T20:10Z</lastmod><changefreq>monthly</changefreq></url>
+</urlset>
